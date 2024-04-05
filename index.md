@@ -261,6 +261,10 @@ Not a full mod more like a re-implementation into VR
 
 [![Iron Ling](https://cdn.cloudflare.steamstatic.com/steam/apps/1846170/header.jpg?t=1688659208)](https://jackaapacka.itch.io/iron-lung-vr)
 
+#### 7 Days to Die VR (By Kaaliba & Necro)
+
+[![7 Days to Die](https://cdn.cloudflare.steamstatic.com/steam/apps/251570/header.jpg)](https://www.nexusmods.com/7daystodie/mods/3011)
+
 
 # Motion Gestures
 
